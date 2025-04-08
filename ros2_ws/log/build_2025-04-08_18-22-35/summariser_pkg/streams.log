@@ -1,0 +1,34 @@
+[1.762s] Invoking command in '/home/user/ros2_ws/src/summariser_pkg': PYTHONPATH=/home/user/ros2_ws/build/summariser_pkg/prefix_override:/home/user/ros2_ws/install/summariser_pkg/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/summariser_pkg build --build-base /home/user/ros2_ws/build/summariser_pkg/build install --record /home/user/ros2_ws/build/summariser_pkg/install.log --single-version-externally-managed install_data
+[2.367s] running egg_info
+[2.367s] creating ../../build/summariser_pkg/summariser_pkg.egg-info
+[2.368s] writing ../../build/summariser_pkg/summariser_pkg.egg-info/PKG-INFO
+[2.368s] writing dependency_links to ../../build/summariser_pkg/summariser_pkg.egg-info/dependency_links.txt
+[2.376s] writing entry points to ../../build/summariser_pkg/summariser_pkg.egg-info/entry_points.txt
+[2.376s] writing requirements to ../../build/summariser_pkg/summariser_pkg.egg-info/requires.txt
+[2.377s] writing top-level names to ../../build/summariser_pkg/summariser_pkg.egg-info/top_level.txt
+[2.377s] writing manifest file '../../build/summariser_pkg/summariser_pkg.egg-info/SOURCES.txt'
+[2.380s] reading manifest file '../../build/summariser_pkg/summariser_pkg.egg-info/SOURCES.txt'
+[2.387s] writing manifest file '../../build/summariser_pkg/summariser_pkg.egg-info/SOURCES.txt'
+[2.387s] running build
+[2.387s] running build_py
+[2.387s] creating /home/user/ros2_ws/build/summariser_pkg/build
+[2.387s] creating /home/user/ros2_ws/build/summariser_pkg/build/lib
+[2.388s] creating /home/user/ros2_ws/build/summariser_pkg/build/lib/summariser_pkg
+[2.388s] copying summariser_pkg/__init__.py -> /home/user/ros2_ws/build/summariser_pkg/build/lib/summariser_pkg
+[2.389s] running install
+[2.389s] running install_lib
+[2.389s] creating /home/user/ros2_ws/install/summariser_pkg/lib/python3.10/site-packages/summariser_pkg
+[2.389s] copying /home/user/ros2_ws/build/summariser_pkg/build/lib/summariser_pkg/__init__.py -> /home/user/ros2_ws/install/summariser_pkg/lib/python3.10/site-packages/summariser_pkg
+[2.390s] byte-compiling /home/user/ros2_ws/install/summariser_pkg/lib/python3.10/site-packages/summariser_pkg/__init__.py to __init__.cpython-310.pyc
+[2.391s] running install_data
+[2.391s] creating /home/user/ros2_ws/install/summariser_pkg/share/ament_index
+[2.392s] creating /home/user/ros2_ws/install/summariser_pkg/share/ament_index/resource_index
+[2.392s] creating /home/user/ros2_ws/install/summariser_pkg/share/ament_index/resource_index/packages
+[2.392s] copying resource/summariser_pkg -> /home/user/ros2_ws/install/summariser_pkg/share/ament_index/resource_index/packages
+[2.392s] copying package.xml -> /home/user/ros2_ws/install/summariser_pkg/share/summariser_pkg
+[2.392s] running install_egg_info
+[2.395s] Copying ../../build/summariser_pkg/summariser_pkg.egg-info to /home/user/ros2_ws/install/summariser_pkg/lib/python3.10/site-packages/summariser_pkg-0.0.0-py3.10.egg-info
+[2.396s] running install_scripts
+[2.437s] Installing summariser_node script to /home/user/ros2_ws/install/summariser_pkg/lib/summariser_pkg
+[2.437s] writing list of installed files to '/home/user/ros2_ws/build/summariser_pkg/install.log'
+[2.474s] Invoked command in '/home/user/ros2_ws/src/summariser_pkg' returned '0': PYTHONPATH=/home/user/ros2_ws/build/summariser_pkg/prefix_override:/home/user/ros2_ws/install/summariser_pkg/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/summariser_pkg build --build-base /home/user/ros2_ws/build/summariser_pkg/build install --record /home/user/ros2_ws/build/summariser_pkg/install.log --single-version-externally-managed install_data

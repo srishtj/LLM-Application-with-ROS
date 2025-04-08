@@ -1,0 +1,3 @@
+[console_scripts]
+summariser_node = summariser_pkg.summariser_node:main
+
